@@ -1,6 +1,6 @@
-### Hi there 👋
+### About me 👋
 
 - 15 years old
-- Use JavaScript, Rust and GDScript
+- I use TypeScript, Rust and Svelte
 - How to reach me: MichalUSER#3846 (Discord)
 - [My website](https://michaluser.github.io)
