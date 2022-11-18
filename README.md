@@ -1,12 +1,12 @@
 ## About me 👋
 
-My name is Michal. I'm a 16 years old student keen into programming.
+**My name is Michal. I'm a 16 years old student keen into programming.**
 
 ## Languages that I use
-- TypeScript, Rust and Python
+TypeScript, Rust and Python
 
 ## Contact
-- MichalUser#3846 (Discord)
+MichalUser#3846 (Discord)
 
 ## Stats
 
