@@ -13,4 +13,4 @@ MichalUser#3846 (Discord)
 ![Michal's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichalUSER&show_icons=true&theme=onedark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichalUSER&theme=onedark&langs_count=3&&hide)
 
-- Check out **[my website](https://michaluser.github.io)**
+Check out **[my website](https://michaluser.github.io)**
