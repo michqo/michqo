@@ -9,6 +9,6 @@ TypeScript, Rust and Python
 MichalUser#3846 (Discord)
 
 ## Stats
-![Michal's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichalUSER&show_icons=true&theme=tokionight)
+![Michal's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichalUSER&show_icons=true&theme=tokyonight)
 
 Check out **[my website](https://michaluser.github.io)**
