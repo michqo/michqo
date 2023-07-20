@@ -9,4 +9,4 @@ TypeScript, Rust and Python
 MichalUser#3846 (Discord)
 
 ## Stats
-![Michal's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichalUSER&show_icons=true&theme=tokyonight)
+![Michal's GitHub stats](https://github-readme-stats.vercel.app/api?username=michqo&show_icons=true&theme=tokyonight)
