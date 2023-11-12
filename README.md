@@ -6,7 +6,7 @@
 TypeScript, Rust and Python
 
 ## Contact
-MichalUser#3846 (Discord)
+michqo - Discord
 
 ## Stats
 ![Michal's GitHub stats](https://github-readme-stats.vercel.app/api?username=michqo&show_icons=true&theme=tokyonight)
