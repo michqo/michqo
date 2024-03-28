@@ -4,7 +4,9 @@
 
 ## Stuff I do
 Web Development - TypeScript, Tailwind, Svelte, React and others
+
 Linux
+
 Gaming
 
 ## Contact
