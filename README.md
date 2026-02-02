@@ -10,4 +10,7 @@ TypeScript, Tailwind, Svelte, React and others
 michqo - Discord
 
 ## Stats
-![Michal's GitHub stats](https://github-readme-stats.vercel.app/api?username=michqo&show_icons=true&theme=tokyonight)
+
+<img align="center" src="https://github-readme-stats-fast.vercel.app/api?username=michqo&show_icons=true" alt="Michal's Github stats" />
+
+<img align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=michqo&layout=compact" alt="Michal's Github languages" />
