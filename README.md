@@ -1,13 +1,10 @@
 ## About me 👋
 
-**My name is Michal. I'm an 18 years old student keen into programming.**
+**My name is Michal. I'm a 20 years old student keen into programming.**
 
-## Stuff I do
-Web Development - TypeScript, Tailwind, Svelte, React and others
+## Technologies I work with
+TypeScript, Tailwind, Svelte, React and others
 
-Linux
-
-Gaming
 
 ## Contact
 michqo - Discord
