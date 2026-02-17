@@ -3,7 +3,7 @@
 **My name is Michal. I'm a 20 years old student keen into programming.**
 
 ## Technologies I work with
-TypeScript, Tailwind, Svelte, React and others
+TypeScript, Django, React, Svelte and others
 
 
 ## Contact
